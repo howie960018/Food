@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Pad Thai",
+        "ingredients": [
+            {
+                "quantity": "1 (14oz)",
+                "name": " Flat, wide rice noodles",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "8 tbsp",
+                "name": " Fish sauce",
+                "emoji": "🐟"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": " Rice vinegar",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "1 to 2 tsp",
+                "name": " Tarmarind paste",
+                "emoji": "🫘"
+            },
+            {
+                "quantity": "1 cup",
+                "name": " Granulated sugar",
+                "emoji": "🍯"
+            },
+        ],
+        "cookTime": "10 mins",
+        "servings": "4 servings",
+        "steps": [
+        "1.Soak the rice.",
+        "2.Add paprika",
+        "3.Bring a pot of water to boil.",
+
+        ],
+        "imageName": "padThai"
+    },
+    {
+        "name": "Pasta with Cauliflower",
+        "ingredients": [
+            {
+                "quantity": "2 (14oz)",
+                "name": " Flat, wide rice noodles",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "8 tbsp",
+                "name": " Fish sauce",
+                "emoji": "🐟"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": " Rice vinegar",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "1 to 2 tsp",
+                "name": " Tarmarind paste",
+                "emoji": "🫘"
+            },
+            {
+                "quantity": "1 cup",
+                "name": " Granulated sugar",
+                "emoji": "🍯"
+            },
+        ],
+        "cookTime": "10 mins",
+        "servings": "4 servings",
+        "steps": [
+        "1.Soak the rice.",
+        "2.Add paprika",
+        "3.Bring a pot of water to boil.",
+
+        ],
+        "imageName": "PastawithCauliflower"
+    },
+    {
+        "name": "Garlic Shrimp Spaghetti",
+        "ingredients": [
+            {
+                "quantity": "1 (14oz)",
+                "name": " Flat, wide rice noodles",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "8 tbsp",
+                "name": " Fish sauce",
+                "emoji": "🐟"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": " Rice vinegar",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "1 to 2 tsp",
+                "name": " Tarmarind paste",
+                "emoji": "🫘"
+            },
+            {
+                "quantity": "1 cup",
+                "name": " Granulated sugar",
+                "emoji": "🍯"
+            },
+        ],
+        "cookTime": "10 mins",
+        "servings": "4 servings",
+        "steps": [
+        "1.Soak the rice.",
+        "2.Add paprika",
+        "3.Bring a pot of water to boil.",
+
+        ],
+        "imageName": "GarlicShrimpSpaghetti"
+    },
+    {
+        "name": "Baked Shrimp Scampi",
+        "ingredients": [
+            {
+                "quantity": "1 (14oz)",
+                "name": " Flat, wide rice noodles",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "8 tbsp",
+                "name": " Fish sauce",
+                "emoji": "🐟"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": " Rice vinegar",
+                "emoji": "🍜"
+            },
+            {
+                "quantity": "1 to 2 tsp",
+                "name": " Tarmarind paste",
+                "emoji": "🫘"
+            },
+            {
+                "quantity": "1 cup",
+                "name": " Granulated sugar",
+                "emoji": "🍯"
+            },
+        ],
+        "cookTime": "10 mins",
+        "servings": "4 servings",
+        "steps": [
+        "1.Soak the rice.",
+        "2.Add paprika",
+        "3.Bring a pot of water to boil.",
+
+        ],
+        "imageName": "BakedShrimpScampi"
+    },
+    
+    
+]
