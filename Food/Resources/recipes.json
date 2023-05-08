@@ -42,37 +42,26 @@
         "name": "Pasta with Cauliflower",
         "ingredients": [
             {
-                "quantity": "2 (14oz)",
-                "name": " Flat, wide rice noodles",
-                "emoji": "🍜"
+                "quantity": "1 1/2 lb. ",
+                "name": "large shrimp, peeled, deveined",
+                "emoji": "🍤"
             },
             {
-                "quantity": "8 tbsp",
-                "name": " Fish sauce",
-                "emoji": "🐟"
+                "quantity": "9 cloves",
+                "name": "  garlic, 5 finely chopped, 4 grated, divided Kosher salt",
+                "emoji": "🧄"
             },
-            {
-                "quantity": "3/4 cup",
-                "name": " Rice vinegar",
-                "emoji": "🍜"
-            },
-            {
-                "quantity": "1 to 2 tsp",
-                "name": " Tarmarind paste",
-                "emoji": "🫘"
-            },
-            {
-                "quantity": "1 cup",
-                "name": " Granulated sugar",
-                "emoji": "🍯"
-            },
+           
+         
         ],
         "cookTime": "10 mins",
         "servings": "4 servings",
         "steps": [
-        "1.Soak the rice.",
-        "2.Add paprika",
-        "3.Bring a pot of water to boil.",
+        "1. In a large bowl, toss shrimp and 2 grated cloves garlic; generously season with salt and black pepper. Refrigerate until ready to use.",
+        "2. In a small skillet over medium low heat, melt 2 tablespoons butter until foam subsides. Add 2 grated cloves garlic and cook, stirring constantly, until fragrant, about 2 minutes.",
+        "3. Stir in bread crumbs and toast, tossing occasionally, until deeply golden brown, 4 to 5 minutes. Add 1 teaspoon lemon zest, season with a heavy pinch of salt, and stir to combine. Transfer to a small bowl.",
+        "4. In a large skillet over medium heat, melt 2 tablespoons butter. Working in batches if necessary, add shrimp and cook, tossing occasionally, until just pink all the way through, 2 to 3 minutes. Using a slotted spoon, transfer shrimp to a plate.",
+        "5. In same skillet over medium-high heat, heat oil until shimmering. Add red pepper and remaining 5 chopped cloves garlic and cook, stirring, until garlic has begun to brown, 2 to 3 minutes."
 
         ],
         "imageName": "PastawithCauliflower"
@@ -81,29 +70,14 @@
         "name": "Garlic Shrimp Spaghetti",
         "ingredients": [
             {
-                "quantity": "1 (14oz)",
-                "name": " Flat, wide rice noodles",
-                "emoji": "🍜"
+                "quantity": "1 1/2 lb. ",
+                "name": "large shrimp, peeled, deveined",
+                "emoji": "🍤"
             },
             {
-                "quantity": "8 tbsp",
-                "name": " Fish sauce",
-                "emoji": "🐟"
-            },
-            {
-                "quantity": "3/4 cup",
-                "name": " Rice vinegar",
-                "emoji": "🍜"
-            },
-            {
-                "quantity": "1 to 2 tsp",
-                "name": " Tarmarind paste",
-                "emoji": "🫘"
-            },
-            {
-                "quantity": "1 cup",
-                "name": " Granulated sugar",
-                "emoji": "🍯"
+                "quantity": "9 cloves",
+                "name": "  garlic, 5 finely chopped, 4 grated, divided Kosher salt",
+                "emoji": "🧄"
             },
         ],
         "cookTime": "10 mins",

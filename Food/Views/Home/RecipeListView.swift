@@ -27,7 +27,7 @@ struct RecipeListView: View {
                 SearchView(searchText: $searchText)
                 ScrollView(showsIndicators: false) {
                     LazyVStack(alignment: .leading,spacing: 10){
-                        BannerView()
+                        //BannerView()
                         ForEach(recipes, id: \.self) { recipe in
                             NavigationLink(destination: RecipeDetailView(recipe: recipe)) {
                                 RecipeTileView(recipe: recipe)

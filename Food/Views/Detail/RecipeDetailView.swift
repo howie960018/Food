@@ -34,7 +34,7 @@ struct RecipeDetailView: View {
                 VStack{
                     backButton
                     Spacer()
-                    RecipeByView()
+                   // RecipeByView()
                 }
             }
             .frame(maxWidth: UIScreen.main.bounds.width,

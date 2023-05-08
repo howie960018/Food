@@ -18,7 +18,7 @@ struct DescHeaderView: View {
                 Text(recipe.name)
                     .font(.title2)
                 
-                Text("\(recipe.cookTime) |\(recipe.servings)")
+                Text("\(recipe.cookTime) | \(recipe.servings)")
                     .foregroundColor(.secondary)
                     
                 Picker("",selection: $stepsShowing){
